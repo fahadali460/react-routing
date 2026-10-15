@@ -1,0 +1,35 @@
+.not-found {
+  text-align: center;
+  padding: 80px 20px;
+  font-family: Arial, sans-serif;
+}
+
+.not-found h1 {
+  font-size: 100px;
+  color: #ef4444;
+  margin: 0;
+}
+
+.not-found h2 {
+  font-size: 30px;
+  color: #1e293b;
+}
+
+.not-found p {
+  color: #64748b;
+  font-size: 16px;
+}
+
+.not-found a {
+  display: inline-block;
+  background: #2563eb;
+  color: white;
+  padding: 12px 24px;
+  margin-top: 15px;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.not-found a:hover {
+  background: #1d4ed8;
+}
